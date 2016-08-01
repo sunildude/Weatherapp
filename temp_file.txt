@@ -2,4 +2,3 @@ This is a test file
 it is added from git bash
 This line is added from command prompt
 This line is added from UI
-This is trash
